@@ -60,21 +60,195 @@ Grading
 
 The class is graded on a pass / fail basis for 6 units, and grades will be based on participation in discussion every week, satisfactory completion of the written and oral assignments, and attendance.
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Unit 1: The Ins and Outs of Cancer**{{< /td-colspan >}} |||
-| 1 | Introduction | &nbsp; |
-| 2 | Of tumor suppressors and oncogenes | &nbsp; |
-| 3 | Cancer stem cells and minimal residual disease | &nbsp; |
-| {{< td-colspan 3 >}}**Unit 2: The Mouse as a Model Organism to Study Human Cancer**{{< /td-colspan >}} |||
-| 4 | Can we model human cancers in mice? | &nbsp; |
-| 5 | Making a better Mouse Man—Recent developments in humanized mouse technologies | &nbsp; |
-| 6 | Sophisticated models of _de novo_ human tumors in humanized mice | &nbsp; |
-| 7 | Visit to Chen Research Lab | Midterm Written Assignment Due |
-| {{< td-colspan 3 >}}**Unit 3: Cancer Immunotherapy and Mouse Avatars**{{< /td-colspan >}} |||
-| 8 | The immune system and cancer—Cancer Immunoediting hypothesis | &nbsp; |
-| 9 | T cell mediated immunotherapy | Paper Selection for Final Assignment |
-| 10 | Improving combination chemotherapy and immune-based therapies based on lessons learned from humanized mice | &nbsp; |
-| 11 | Personalized mice—Part 1: Mouse Avatars | &nbsp; |
-| 12 | Personalized mice—Part 2: Co-clinical trials | &nbsp; |
-| 13 | Class presentation and course evaluation |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 1: The Ins and Outs of Cancer**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Of tumor suppressors and oncogenes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Cancer stem cells and minimal residual disease
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 2: The Mouse as a Model Organism to Study Human Cancer**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Can we model human cancers in mice?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Making a better Mouse Man—Recent developments in humanized mouse technologies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Sophisticated models of _de novo_ human tumors in humanized mice
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Visit to Chen Research Lab
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Written Assignment Due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 3: Cancer Immunotherapy and Mouse Avatars**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The immune system and cancer—Cancer Immunoediting hypothesis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+T cell mediated immunotherapy
+{{< tdclose >}}
+{{< tdopen >}}
+Paper Selection for Final Assignment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Improving combination chemotherapy and immune-based therapies based on lessons learned from humanized mice
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Personalized mice—Part 1: Mouse Avatars
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Personalized mice—Part 2: Co-clinical trials
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Class presentation and course evaluation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
